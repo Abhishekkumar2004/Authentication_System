@@ -252,10 +252,3 @@ See [`Architecture.png`](./Architecture.png) for the project's architecture diag
 
 GitHub: [@Abhishekkumar2004](https://github.com/Abhishekkumar2004)
 
-## 📄 License
-
-Add a license file if you intend to distribute this project under an open-source license.
-
----
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
